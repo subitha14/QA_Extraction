@@ -13,7 +13,7 @@ Installation
 	• Run the Python script using the following command:
 		python my_script.py
 		
-Explanation of the script:
+**Explanation of the script:**
 	• This python script takes the input as json file
 	• This function  get_json_file_data(file_path) returns the JSON data as a result from the json file .
 	• In this function extract_question_and_answer(json_data),sending  input as json data from json file 
